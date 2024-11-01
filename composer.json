@@ -1,6 +1,5 @@
 {
   "name": "rocket-web/module-cli-logger",
-  "version": "1.0.0",
   "description": "A log wrapper that outputs log stream to CLI output",
   "type": "magento2-module",
   "require": {
